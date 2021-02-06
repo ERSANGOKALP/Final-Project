@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FinalProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FinalProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
